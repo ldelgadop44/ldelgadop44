@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**ldelgadop44/ldelgadop44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Leonardo! :wave:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+I'm from Colombia and I'm an SRE.
+
+- Currently working at [@Lulobank](https://github.com/piso19) as a DevOps Engineer
+- [AWS](https://aws.amazon.com/certification/certified-solutions-architect-associate/?nc1=h_ls) Certified Solutions Architect - Associate
+- Telematics Engineer from the [Francisco José de Caldas](https://www.udistrital.edu.co/inicio) District University
+## 🛠 Skills
+
+* 5+ years experience in IT area.
+
+* Using Kubernetes since 2017
+
+* IaaC with terraform, Cloudformation, Chef and Puppet
+
+* Cloud skills in AWS mostly and other like Digital Ocean, GCP and Microsoft Azure
+
+* Some Python coding
+
+* Ability to solve problems and reinvent things
+
+* Play the saxophone too! :musical_note:
+
+## :link: Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-delgado-pedraza-7ba96216a/)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ldelgadop44)
+
