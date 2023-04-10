@@ -30,5 +30,6 @@ I'm from Colombia and I'm an SRE.
 
 ## 🛠 My badges
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)]([http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774](https://www.credly.com/badges/4643b81f-d4c5-4890-a1dd-f59c57d6d75b/public_url) "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
 
