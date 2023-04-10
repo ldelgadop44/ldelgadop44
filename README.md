@@ -69,5 +69,5 @@ To see all the other badges are [here](https://www.credly.com/users/leonardo-del
 <!--START_SECTION:stats-->
 <h2>📊 My stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldelgadop44&theme=light" alt="ldelgadop44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldelgadop44&theme=dark" alt="ldelgadop44" /></p>
 <!--END_SECTION:stats-->
