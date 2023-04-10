@@ -28,3 +28,7 @@ I'm from Colombia and I'm an SRE.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-delgado-pedraza-7ba96216a/)
 [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ldelgadop44)
 
+## 🛠 My badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
