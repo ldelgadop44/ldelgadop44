@@ -5,16 +5,17 @@
 <h2 align="center">🔗 Contact with me 🔗</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/leonardo-delgado-pedraza-7ba96216a">
-        <img style="display: inline-block;" alt="linkedin" title="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img style="display: inline-block;" alt="linkedin" title="leonardo-delgado-pedraza-7ba96216a" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/ldelgadop44">
-        <img style="display: inline-block;" alt="github" title="github" src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=black"/>
+        <img style="display: inline-block;" alt="github" title="ldelgadop44" src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=black"/>
     </a>
     <a href="mailto:lenkay.44@gmail.com">
-        <img style="display: inline-block;" alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img style="display: inline-block;" alt="gmail" title="lenkay.44@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 <!--END_SECTION:contact-->
+
 
 <!--START_SECTION:about-->
 <h2 align="left">💻 About Me</h2>
@@ -32,16 +33,18 @@ I'm from Colombia and I've been a cloud engineer for more than 5 years.
 
 <!--START_SECTION:skills-->
 <h2>🛠 Skills</h2>
-<p align="left"><ul>
-<li>5+ years experience in IT area.</li>
-<li>Using Kubernetes since 2017</li>
-<li>IaaC with terraform, Cloudformation, Chef and Puppet</li>
-<li>Cloud skills in AWS mostly and other like Digital Ocean, GCP and Microsoft Azure</li>
-<li>Continuous integration and continuous deployment</li>
-<li>Some Python and Go coding</li>
-<li>Ability to solve problems and reinvent things</li>
-<li>Play the saxophone too! 🎵</li>
-</ul></p>
+<p align="left">
+    <ul>
+        <li>5+ years experience in IT area.</li>
+        <li>Using Kubernetes since 2017</li>
+        <li>IaaC with terraform, Cloudformation, Chef and Puppet</li>
+        <li>Cloud skills in AWS mostly and other like Digital Ocean, GCP and Microsoft Azure</li>
+        <li>Continuous integration and continuous deployment</li>
+        <li>Some Python and Go coding</li>
+        <li>Ability to solve problems and reinvent things</li>
+        <li>Play the saxophone too! 🎵</li>
+    </ul>
+</p>
 <!--END_SECTION:skills-->
 
 
@@ -66,8 +69,11 @@ To see all the other badges are [here](https://www.credly.com/users/leonardo-del
 </p>
 <!--END_SECTION:badges-->
 
-<!--START_SECTION:stats-->
-<h2>📊 My stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldelgadop44&theme=dark" alt="ldelgadop44" /></p>
+<!--START_SECTION:stats-->
+<h2>📊 My Github stats</h2>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldelgadop44&theme=dark" alt="ldelgadop44" />
+</p>
 <!--END_SECTION:stats-->
