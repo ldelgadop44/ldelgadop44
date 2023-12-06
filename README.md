@@ -63,6 +63,9 @@ To see all the other badges are [here](https://www.credly.com/users/leonardo-del
     <a href="https://www.credly.com/badges/20e5aa8d-773c-4675-a035-05a82a7c1d6e/public_url">
         <img style="display: inline-block;" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
     </a>
+    <a href="https://www.credly.com/badges/80a3a646-e82e-4d56-9290-26442e70eefc/public_url">
+        <img style="display: inline-block;" alt="HashiCorp Certified: Terraform Associate (003)" title="HashiCorp Certified: Terraform Associate (003)" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" height="100"/>
+    </a>
     <a href="https://www.credential.net/69ae8466-da55-47d2-80bb-e663894e66fb#gs.uxvgha">
         <img style="display: inline-block;" alt="CLOUD-SRE-AWS" title="CLOUD-SRE-AWS" src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/15774963213795567748279139134817.png" width="100" height="100"/>
     </a>
